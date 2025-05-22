@@ -1,3 +1,5 @@
+package Arrays;
+
 public class ProductOfArray {//Question 1
     public int productOfArray(int[] array, int choice) {
         int product = 1;

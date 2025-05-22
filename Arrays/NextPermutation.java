@@ -1,3 +1,5 @@
+package Arrays;
+
 import java.util.Arrays;
 //the next permutation of an array of
 // integers is the next lexicographically

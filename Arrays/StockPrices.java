@@ -1,3 +1,5 @@
+package Arrays;
+
 public class StockPrices {//Question 3
 
     public int stock(int[] arr) {

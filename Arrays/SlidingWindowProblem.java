@@ -1,3 +1,5 @@
+package Arrays;
+
 public class SlidingWindowProblem {
     /*given an array of integer and a integer target.
      Return the minimal length of a sub array

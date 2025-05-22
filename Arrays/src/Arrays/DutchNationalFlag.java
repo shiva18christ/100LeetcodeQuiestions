@@ -1,3 +1,5 @@
+package Arrays.src.Arrays;
+
 import java.util.Arrays;
 
 class DutchNationalFlag {
